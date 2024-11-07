@@ -1,0 +1,7 @@
+.slick-slider {
+
+   &,
+   & * {
+      box-sizing: border-box;
+   }
+}

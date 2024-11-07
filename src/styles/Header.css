@@ -1,0 +1,21 @@
+.up-btn {
+   margin: 4rem;
+}
+
+.slider {
+   color: springgreen !important;
+}
+
+.slider .MuiSlider-track {
+   background: linear-gradient(90deg, cyan, blue);
+   border: 0;
+}
+
+.slider .MuiSlider-rail {
+   background-color: rgba(0, 255, 255, 0.534);
+}
+
+.slider .MuiSlider-thumb {
+   background: cyan;
+
+}
